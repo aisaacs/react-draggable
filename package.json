@@ -1,7 +1,7 @@
 {
-  "name": "react-draggable2",
-  "version": "0.5.1",
-  "description": "React draggable component",
+  "name": "react-pointer-draggable",
+  "version": "0.0.1",
+  "description": "React draggable component with pointer events",
   "main": "lib/draggable.js",
   "scripts": {
     "test": "karma start --single-run",
@@ -9,23 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikepb/react-draggable.git"
+    "url": "https://github.com/aisaacs/react-draggable.git"
   },
-  "keywords": [
-    "react",
-    "draggable",
-    "react-component"
-  ],
-  "author": "Matt Zabriskie",
-  "contributors": [{
-    "name": "Michael Phan-Ba",
-    "email": "michael@mikepb.com"
-  }],
+  "author": "A.Isaacs",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mikepb/react-draggable/issues"
-  },
-  "homepage": "https://github.com/mikepb/react-draggable",
+  "homepage": "https://github.com/aisaacs/react-draggable",
   "devDependencies": {
     "jsx-loader": "^0.12.2",
     "karma": "^0.12.31",
