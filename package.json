@@ -3,10 +3,6 @@
   "version": "0.0.1",
   "description": "React draggable component with pointer events",
   "main": "lib/draggable.js",
-  "scripts": {
-    "test": "karma start --single-run",
-    "prepublish": "webpack lib/draggable.js dist/react-draggable.js && webpack --optimize-minimize lib/draggable.js dist/react-draggable.min.js"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/aisaacs/react-draggable.git"
